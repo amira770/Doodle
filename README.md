@@ -1,1 +1,1 @@
-a doodling program. The user can create doodles through moving the mouse cursor and stop doodling when the mouse right click is clicked and resume doodling when clicked again and so on. I've added a feature also which mirrors whatever the user is doodling (may be to create patterns).
+A doodling program. The user can create doodles through moving the mouse cursor and stop doodling when the mouse right click is clicked and resume doodling when clicked again and so on. I've added a feature also which mirrors whatever the user is doodling (may be to create patterns).
